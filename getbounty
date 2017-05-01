@@ -37,7 +37,7 @@
       <div class="k-nav-outside">
         <div class="k-nav-inside">
           <ul class="k-nav-links">
-            <li class="active"><a href="#" data-nav-to="#one"><span>About</span></a></li>
+            <li class="active"><a href="#" data-nav-to="#one"><span>Dettagli</span></a></li>
             <li><a data-nav-to="#two" href="#"><span>Token Distribution</span></a></li>
             <li><a data-nav-to="#three" href="#"><span>Join distribution</span></a></li>
             <li><a data-nav-to="#four" href="#"><span>Roadmap</span></a></li>
