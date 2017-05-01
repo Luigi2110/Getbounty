@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en" class="wow-animation">
+<head>
+    <title>Bounty (XBTY) - Decentralized Token on Ethereum blockchain</title>
+    <meta charset="utf-8"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="img/android-chrome-192x192.png" sizes="192x192">
+    <meta name="msapplication-square70x70logo" content="img/smalltile.png" />
+    <meta name="msapplication-square150x150logo" content="img/mediumtile.png" />
+    <meta name="msapplication-wide310x150logo" content="img/widetile.png" />
+    <meta name="msapplication-square310x310logo" content="img/largetile.png" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700%7COpen+Sans:400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-color.css" id="colors">
+</head>
+<body class="">
+<div class="main-wrapper">
+  <header  class="main-header">
+    <span class="header-bg"></span>
+    <div class="k-nav all-light">
+      <div class="k-nav-toggle"><span></span></div>
+      <div class="k-nav-outside">
+        <div class="k-nav-inside">
+          <ul class="k-nav-links">
+            <li class="active"><a href="#" data-nav-to="#one"><span>About</span></a></li>
+            <li><a data-nav-to="#two" href="#"><span>Token Distribution</span></a></li>
+            <li><a data-nav-to="#three" href="#"><span>Join distribution</span></a></li>
+            <li><a data-nav-to="#four" href="#"><span>Roadmap</span></a></li>
+            <li><a data-nav-to="#five" href="#"><span>Services</span></a></li>
+          </ul>
+          <div class="header-phones">
+            <a href="https://twitter.com/GetYourBounty"><span class="icon fa fa-twitter"></span>Twitter</a>
+            <a href="https://www.facebook.com/GetBounty.net"><span class="icon fa fa-facebook"></span>Facebook</a>
+            <a href="https://medium.com/@GetBounty.net"><span class="icon fa fa-medium"></span>Blog</a>
+            <a href="https://bitcointalk.org/index.php?topic=1847091.0"><span class="icon fa fa-btc"></span>Bitcointalk thread</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="main-container container">
+    <section class="pb-40">
+      <div class="first-section text-sm-left">
+        <div class="row flex-center">
+          <div class="col-sm-5">
+            <img src="img/logo.png" alt="">
+          </div>
+          <div class="col-sm-7 mt-20 mt-sm-0">
+            <h1>GetBounty</h1>
+            <h2>Ethereum ERC20 Token</h2>
+            <hr class="divider">
+            <ul class="profile-stats text-left">
+              <li>
+                <span class="title">TOTAL SUPPLY</span>
+                <span class="content">3,141,592 XBTY</span>
+              </li>
+              <li>
+                <span class="title">TOKEN NAME</span>
+                <span class="content">Bounty</span>
+              </li>
+              <li>
+                <span class="title">TOKEN SYMBOL</span>
+                <span class="content">XBTY</span>
+              </li>
+              <li>
+                <span class="title">DECIMALS</span>
+                <span class="content">18</span>
+              </li>
+              <li>
+                <span class="title">Explorer</span>
+                <span class="content"><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7" target="_blank">View block explorer</a></u></span>
+              </li>
+
+            </ul>
+            <br>
+<h4>How to use with:</h4>
+            <div class="btn-block">
+
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-no-ipo-ico-crowdsale-3e63d6e4b578" class="btn btn-md btn-default fancybox">Ethereum wallet</a>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-no-ipo-ico-crowdsale-3e63d6e4b578" class="btn btn-md btn-default fancybox">Myetherwallet</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="one" class="p-40">
+      <h2 class="section-title">About Bounty (XBTY)</h2>
+      <div class="indent-content bg-white wow fadeInUp">
+        <p>
+          <h4 class="text-gray text-uppercase">What is bounty (XBTY)?</h4><br>
+          Bounty (XBTY) is an ERC20 Standard Token on Ethereum blockchain, fully compatible with all Ethereum wallets which have support ERC20 Tokens and smart-contracts
+          that use the ERC20 Standard. Can be used as a coin, certificate, IOUs, in game credits, currency for services, etc.
+          It has no value by itself but we are hard at work to change this aspect by developing various services for XBTY
+          creating a demand for the token and hopefully increasing it's value.<br><br>
+          <h4 class="text-gray text-uppercase">What is your plan?</h4><br>
+          We are developing various service for Bounty (XBTY) to boost the demant and value of the token in time. Since we are distributing the tokens for "free"
+          it's value can only go up and we hope to get the community a bit more involved.<br><br>
+          <h4 class="text-gray text-uppercase">Bounty (XBTY) Distribution</h4><br>
+          The majority of tokens will be distributed for “free” as bounties for social media campaigns, forums signature advertising,
+          bounties for translations, bounties for writing articles about our project on blogs, bounties for advertising through banner ads
+          or other marketing strategies and bounties for helping us with development of services for XBTY token.
+        </p><br><br>
+        <div class="btn-block">
+          <a href="https://bitcointalk.org/index.php?topic=1847091.0" class="btn btn-md btn-primary">Join us on Bitcointalk</a>
+          <a href="https://medium.com/@GetBounty.net" class="btn btn-md btn-default">Read the latest news</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="two" class="p-40">
+      <h2 class="section-title">XBTY Distribution</h2>
+      <div class="indent-content bg-white">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="row">
+              <div class="col-xs-6 col-sm-6 progress-circle">
+                <div class="progr-bar" data-percent="20"></div>
+                <p><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0x42b1037fda7f0b9fc336da07987554cac110a790" target="_blank">Twitter campaign</a></u></p>
+              </div>
+              <div class="col-xs-6 col-sm-6 progress-circle mt-20 mt-xs-0">
+                <div class="progr-bar" data-percent="5"></div>
+                <p><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0x3cC3445c894B2f1508230E22c3AB3f1c941fB348" target="_blank">Facebook campaign</a></u></p>
+              </div>
+              <div class="col-xs-6 col-sm-6 progress-circle mt-20">
+                <div class="progr-bar" data-percent="15"></div>
+                <p><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0x1617F53Cdc3f8e91257b642dD257B683e4002C63" target="_blank">Signature campaign</a></u></p>
+              </div>
+              <div class="col-xs-6 col-sm-6 progress-circle mt-20">
+                <div class="progr-bar" data-percent="5"></div>
+                <p><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0xDD0361197Fe3cFd1043Fb3b2C23eb8668365fA5f" target="_blank">Translation bounties</a></u></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 mt-30 mt-md-0">
+            <div class="progress-wrapper">
+              <h5><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0xD2261c744cA671CAe73a0259FE426342aE5036C6" target="_blank">Blog/Media campaign</a></u></h5>
+              <div class="progress">
+                <div data-valuenow="20" data-valuemin="0" data-valuemax="100" class="progress-bar progress-bar-primary"></div>
+                <span class="progress-bar-counter hide">20</span>
+              </div>
+            </div>
+            <div class="progress-wrapper">
+              <h5><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0xe2623DB4ACd6AB8D108861999f4f416845ccCA35" target="_blank">Marketing campaign</a></u></h5>
+              <div class="progress">
+                <div data-valuenow="10" data-valuemin="0" data-valuemax="100" class="progress-bar progress-bar-primary"></div>
+                <span class="progress-bar-counter hide">10</span>
+              </div>
+            </div>
+            <div class="progress-wrapper">
+              <h5><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0x30b7c4Ffd029f0c2Cf4016B0E882A3914e355125" target="_blank">Development bounties</a></u></h5>
+              <div class="progress">
+                <div data-valuenow="10" data-valuemin="0" data-valuemax="100" class="progress-bar progress-bar-primary"></div>
+                <span class="progress-bar-counter hide">10</span>
+              </div>
+            </div>
+            <div class="progress-wrapper">
+              <h5><u><a href="https://etherscan.io/token/0x22a3B451d60A72388a37c97Bc517E44ad76A50F7?a=0xC2eCeD88b81f5089cdb1B50aD0eF0ABd3D9d04EF" target="_blank">GetBounty team</a></u></h5>
+              <div class="progress">
+                <div data-valuenow="15" data-valuemin="0" data-valuemax="100" class="progress-bar progress-bar-primary"></div>
+                <span class="progress-bar-counter hide">15</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="three" class="p-40">
+      <h2 class="section-title">Join XBTY Distribution</h2>
+      <div class="row text-left">
+        <div class="col-sm-6 col-md-4">
+          <div class="popover-block">
+            <a href="#twitter-campaign" class="fancybox"><span class="icon icon-sm fa fa-twitter"></span>
+            <h4>Twitter campaign</h4></a>
+            <p class="popover-content small text-light">Help us spread the word about Bounty (XBTY) on Twitter and earn XBTY as reward for your work.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30 mt-sm-0">
+          <div class="popover-block">
+            <a href="#facebook-campaign" class="fancybox"><span class="icon icon-sm fa fa-facebook"></span>
+            <h4>Facebook campaign</h4></a>
+            <p class="popover-content small text-light">Help us spread the word about Bounty (XBTY) on Facebook and earn XBTY as reward for your work.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30 mt-md-0">
+          <div class="popover-block">
+            <a href="#signature-campaign" class="fancybox"><span class="icon icon-sm fa fa-btc"></span>
+            <h4>Signature campaign</h4></a>
+            <p class="popover-content small text-light">Help us spread the word about Bounty (XBTY) on Bitcointalk forum through signature campaign to earn XBTY.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+          <div class="popover-block">
+            <a href="#translation-bounty" class="fancybox"><span class="icon icon-sm fa fa-language"></span>
+            <h4>Translation bounties</h4></a>
+            <p class="popover-content small text-light">Not everybody is speaking English. Help us translate our content and earn XBTY as reward for your work.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+          <div class="popover-block">
+            <a href="#blog-bounty" class="fancybox"><span class="icon icon-sm fa fa-wordpress"></span>
+            <h4>Blog/Media campaign</h4></a>
+            <p class="popover-content small text-light">Write about our project on Blogs and online Magazines to earn XBTY as reward.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+          <div class="popover-block">
+            <a href="#marketing-bounty" class="fancybox"><span class="icon icon-sm fa fa-line-chart"></span>
+            <h4>Marketing campaign</h4></a>
+            <p class="popover-content small text-light">Help us spread the word about Bounty (XBTY) through banner ads and other Marketing strategies to earn XBTY.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+          <div class="popover-block">
+            <a href="#development-bounty" class="fancybox"><span class="icon icon-sm fa fa-github-alt"></span>
+            <h4>Development bounties</h4></a>
+            <p class="popover-content small text-light">By helping us to develop more services for Bounty (XBTY) you earn XBTY as reward for your work.</p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-30">
+        </div>
+      </div>
+    </section>
+
+    <section id="four" class="p-40">
+      <h2 class="section-title">Roadmap</h2>
+      <div class="timeline">
+        <div class="timeline-item wow fadeInLeft">
+          <div class="timeline-date"><span>Q4 2017</span></div>
+          <div class="timeline-descr">
+            <div class="timeline-content">
+              <h3 class="text-primary">Business/Service online directory</h3>
+              <h4 class="text-gray text-uppercase">Under development</h4>
+              <p>List your bitcoin/ethereum based business or service to increase your online visibility. This service will require XBTY to post your business/service, increasing demand for XBTY.</p>
+            </div>
+          </div>
+        </div>
+        <div class="timeline-item wow fadeInLeft">
+          <div class="timeline-date"><span>Q4 2017</span></div>
+          <div class="timeline-descr">
+            <div class="timeline-content">
+              <h3 class="text-primary">Blockchain related online magazine</h3>
+              <h4 class="text-gray text-uppercase">Under development</h4>
+              <p>An online blog/magazin for blockchain related articles (similar to Coindesk and other blockchain related blogs). We'll charge XBTY as payment for Advertorials and Banner ADS.</p>
+            </div>
+          </div>
+        </div>
+        <div class="timeline-item wow fadeInLeft">
+          <div class="timeline-date"><span>Q1 2018</span></div>
+          <div class="timeline-descr">
+            <div class="timeline-content">
+              <h3 class="text-primary">Online Poker Holdem game</h3>
+              <h4 class="text-gray text-uppercase">Under development</h4>
+              <p>An online Poker game using XBTY as currency. Still planning if to use XBTY directly as chips or to use XBTY to buy chips and cash-out chips for XBTY.</p>
+            </div>
+          </div>
+        </div>
+        <div class="timeline-item wow fadeInLeft">
+          <div class="timeline-date"><span>Q2 2018</span></div>
+          <div class="timeline-descr">
+            <div class="timeline-content">
+              <h3 class="text-primary">A P2P VPN service (TOR-like service)</h3>
+              <h4 class="text-gray text-uppercase">Under development</h4>
+              <p>
+You can host an Exit-Node and get paid with XBTY by anybody who’s using your Exit-Node as a VPN connection (streaming Netflix in countries where it’s not available, browse safely while connected to public WIFI or other untrusted networks, etc).
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="timeline-item wow fadeInLeft">
+          <div class="timeline-date"><span>***</span></div>
+          <div class="timeline-descr">
+            <div class="timeline-content">
+              <h3 class="text-primary">More ideas to come</h3>
+              <p>
+The list will be updated with more services. We are open to more ideas from the community for services to be used with XBTY.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="five" class="p-40">
+      <h2 class="section-title">Bounty (XBTY) Services</h2>
+      <div class="iso mt-20">
+        <div class="button-group filters-button-group">
+          <button class="button is-checked" data-filter="*">All</button>
+          <button class="button" data-filter=".Privacy">Privacy</button>
+          <button class="button" data-filter=".Ecommerce">eCommerce</button>
+          <button class="button" data-filter=".Media">Media</button>
+          <button class="button" data-filter=".Games">Online Games</button>
+        </div>
+        <div class="grid text-left">
+          <div>
+            <article class="Privacy">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Privacy">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Games">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Ecommerce">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Ecommerce">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Media">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Media">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+            <article class="Games">
+              <div class="img-container">
+                <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
+                <div class="img-panel all-light">
+                  <h4>Coming soon</h4>
+                  <p class="small">Project description</p>
+                  <hr class="divider">
+                  <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="six" class="p-40">
+      <h2 class="section-title">Blog articles</h2>
+      <div class="slider_3 text-left">
+        <div class="blog-post">
+
+          <div class="post-text">
+            <h4 class="post-title"><a href="https://medium.com/@GetBounty.net/bounty-xbty-no-ipo-ico-crowdsale-3e63d6e4b578">GetBounty — NO IPO/ICO/Crowdsale</a></h4>
+            <p>Bounty (XBTY) it’s just a digital token, an ERC20 Standard Token on Ethereum blockchain and it’s fully compatible with all Ethereum wallets...</p>
+            <div class="post-data">
+
+              <p><span class="icon icon-sm fa fa-calendar"></span><span>12 Apr 2017</span></p>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-no-ipo-ico-crowdsale-3e63d6e4b578" class="pull-right more-link">Read more</a>
+            </div>
+          </div>
+        </div>
+        <div class="blog-post">
+
+          <div class="post-text">
+            <h4 class="post-title"><a href="https://medium.com/@GetBounty.net/bounty-xbty-join-twitter-campaign-distribution-7c7c52b9e574">Join Twitter Campaign distribution</a></h4>
+            <p>Available Tokens: 628,318 (20%) Distribution: Weekly distribution Twitter page to follow: https://twitter.com/GetYourBounty Stake: 0.1 XBTY / 1 Follower...</p>
+            <div class="post-data">
+
+              <p><span class="icon icon-sm fa fa-calendar"></span><span>12 Apr 2017</span></p>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-join-twitter-campaign-distribution-7c7c52b9e574" class="pull-right more-link">Read more</a>
+            </div>
+          </div>
+        </div>
+        <div class="blog-post">
+
+          <div class="post-text">
+            <h4 class="post-title"><a href="https://medium.com/@GetBounty.net/bounty-xbty-join-blog-media-campaign-distribution-1413a2ca73a9">Join Blog/Media campaign distribution</a></h4>
+            <p>Available Tokens: 628,318 (20%) Distribution: 2 Weeks after publication Stake: 2,000 to 20,000 XBTY per post/video We decide the stake based on quality of...</p>
+            <div class="post-data">
+
+              <p><span class="icon icon-sm fa fa-calendar"></span><span>15 Apr 2017</span></p>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-join-blog-media-campaign-distribution-1413a2ca73a9" class="pull-right more-link">Read more</a>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="blog-post">
+
+          <div class="post-text">
+            <h4 class="post-title"><a href="https://medium.com/@GetBounty.net/bounty-xbty-logo-design-contest-3a5fdb3d0a5d">GetBounty— Logo design contest</a></h4>
+            <p>We decided to change our logo and to offer the chance for the community to gain some XBTY as a reward for this job Contest period: 4/19/2017 to 4/26/2017;...</p>
+            <div class="post-data">
+
+              <p><span class="icon icon-sm fa fa-calendar"></span><span>15 Apr 2017</span></p>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-logo-design-contest-3a5fdb3d0a5d" class="pull-right more-link">Read more</a>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="blog-post">
+
+          <div class="post-text">
+            <h4 class="post-title"><a href="https://medium.com/@GetBounty.net/bounty-xbty-logo-design-contest-3a5fdb3d0a5d">GetBounty — Join Facebook campaign</a></h4>
+            <p>Available Tokens: 157,080 (5%) Distribution: Weekly distribution Stake: 50 XBTY / Week Follow and Like our Facebook page @GetBounty.net...</p>
+            <div class="post-data">
+
+              <p><span class="icon icon-sm fa fa-calendar"></span><span>15 Apr 2017</span></p>
+              <a href="https://medium.com/@GetBounty.net/bounty-xbty-logo-design-contest-3a5fdb3d0a5d" class="pull-right more-link">Read more</a>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+    </section>
+
+    <div class="hide">
+      <div id="twitter-campaign">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Twitter campaign</h3><br>
+                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <p>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Available</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow @GetYourBounty</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;0.1 XBTY / Follower / Week</i><br>
+                        e.g. If your twitter account has 3000 followers, your stake is 300 XBTY / week<br><br>
+                        <h4 class="text-gray text-uppercase">Rules</h4>
+                        - You must follow and keep following our twitter page @GetYourBounty;<br>
+                        - You must be active, retweet our tweets or tweet about @GetYourBounty.<br>
+                        - There is no minimum requirement of tweets/retweets but please don't ignore us.<br>
+                        - Having no activity over long periods can get you excluded from the campaign<br>
+                        - You will be excluded from the bounty for spamming accounts, bots, etc;<br>
+                        - You must have a minimum of 150 Followers to be accepted;<br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSehy3yBExXH9muRe4Ydxjf0elIR2UQoW9aqIzFKE4T2EpirsQ/viewform" class="btn btn-md btn-primary">Join Twitter campaign</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/1k5FwqjfFD3DMcMu2Ylo7ooj0A3ffIMV9JlQ-aabycUk" class="btn btn-md btn-default">See participants list</a>
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+    <div class="hide">
+      <div id="facebook-campaign">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Facebook campaign</h3><br>
+                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <p>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,080 XBTY Available</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow and Like our Facebook page @GetBounty.net</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;50 XBTY / Week</i><br><br>
+                        <h4 class="text-gray text-uppercase">Rules</h4>
+                        - Follow and Like our Facebook page at @GetBounty.net;<br>
+                        - Keep following our page to continuously receive XBTY on weekly basis;<br>
+                        - Be active, like and share our Facebook posts;<br>
+                        - If your activity is too low (no shares and likes over long periods) you will be excluded from the campaign;<br>
+                        - You must have a minimum of 50 real friends;<br>
+                        - Don't use a Facebook profile dedicated for joining bounties;<br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaKZT1oCA8gsQ2k1iAgSNl7p6nXC98ZCv4XQ5C1jVCrAw3Gw/viewform" class="btn btn-md btn-primary">Join Facebook campaign</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/1nt98tnSESTSThzfaZH245F3N5mprGsHfdPb69hYFRYE" class="btn btn-md btn-default">See participants list</a>
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+
+    <div class="hide">
+      <div id="signature-campaign">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Signature campaign</h3><br>
+                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <p>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;471,238 XBTY Available</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow @GetYourBounty</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;<b>Stake</b></i><br>
+                        - Jr. Member: 30 XBTY / week;<br>
+                        - Member: 45 XBTY / week;<br>
+                        - Full Member: 90 XBTY / week;<br>
+                        - Sr. Member: 150 XBTY / week;<br>
+                        - Hero / Legendary: 200 XBTY / week;<br><br>
+                        <h4 class="text-gray text-uppercase">Rules</h4>
+                        - You must keep the signature to continuously receive bounty on weekly basis;<br>
+                        - You must be active and write posts on bitcointalk forum otherwise you can be excluded from the campaign;<br>
+                        - Off-topic and low quality posts will not be counted;<br><br>
+                        <a href="https://bitcointalk.org/index.php?topic=1847091.0" class="btn btn-md btn-primary">1 > Get signature codes</a><br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkOXbNZSHbjDqZ-IHq4vTZecTIr2FILLofvBUFbptRqeYmiQ/viewform" class="btn btn-md btn-primary">2 > Join Signature campaign</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/14LkFwnXCR8RhhdH6gBNnQe_03_fcOQ2cj2OgLtWIamo" class="btn btn-md btn-default">See participants list</a>
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+
+    <div class="hide">
+      <div id="translation-bounty">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Translation bounty</h3><br>
+                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <p>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,079 XBTY Available</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Translate available content</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribution after delivery</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;1 XBTY / word</i><br>
+                        e.g. if you translate 500 words you will receive 500 XBTY;<br><br>
+                        <h4 class="text-gray text-uppercase">What and how to?</h4>
+                        - Available language accepted: <b>Chinese, Russian, Indonesian, Spanish, German, Italian, Turkish, Romanian</b>;<br>
+                        - Check the list with the content available for translation;<br>
+                        - For other content than bitcointalk thread, create a <a href="https://justpaste.it">https://justpaste.it</a> and post it in the registration form;<br><br>
+
+                        <h4 class="text-gray text-uppercase">Rules</h4>
+                        - Don’t use google translate or other translation services;<br>
+                        - First come, first served, no reservations;<br>
+                        - You will receive extra bonus for keeping the content updated;<br><br>
+                        <a href="https://medium.com/@GetBounty.net/getbounty-join-translation-bounty-7db181e1514f" class="btn btn-md btn-primary">Check available content</a><br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScgHt22UgWNSVFt7D_1KyybFUOBTx_JoF1S4pfcox2avOSDgw/viewform" class="btn btn-md btn-primary">Join Translation bounty</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/14CzH9r_gqEj7vRLyuI-ahBhdyGloJxlVXZmXby5D_4s" class="btn btn-md btn-default">See participants list</a>
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+    <div class="hide">
+      <div id="blog-bounty">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Blog/Media campaign</h3><br>
+                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <p>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Available</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Write blog post</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Make video</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;2 Weeks after publication</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;2,000 to 20,000 XBTY per post/video</i><br>
+                        We decide the stake based on quality of the post/video and popularity.<br><br>
+                        <h4 class="text-gray text-uppercase">Rules for blog posts</h4>
+                        - Minimum 400 words;<br>
+                        - Must contain at least 1 link back to http://getbounty.net;<br>
+                        - Must contain unique content;<br>
+                        - Must be posted on English, Russian, Chinese, Indonesian or Spanish language blogs;<br><br>
+                        <h4 class="text-gray text-uppercase">Rules for Youtube/Other videos</h4>
+                        - Minimum 1 minute length video;<br>
+                        - Must explain all aspects of Bounty (XBTY) project;<br>
+                        - Must specify our website http://getbounty.net;<br>
+                        - Only English, Russian, Chinese or Spanish language accepted;<br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVCHkaA_tOPjLVGp-Q9TtgJAsbSw1sHUakVPKN9RuR5Zmo9Q/viewform" class="btn btn-md btn-primary">Join Blog/Media campaign</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/1Z6AJxvErI69V9Xop21jHAyrQwGvtfsHycwcauWiYNAM" class="btn btn-md btn-default">See participants list</a>
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+
+    <div class="hide">
+      <div id="marketing-bounty">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Marketing campaign</h3><br>
+
+                      <p>
+                        Not Started!
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+    <div class="hide">
+      <div id="development-bounty">
+
+                    <div style="text-align:left;" class="timeline-content left">
+                      <h3 class="text-primary">Join Development bounty</h3><br>
+
+                      <p>
+                        Not Started!
+                      </p>
+                    </div>
+        </p>
+      </div>
+    </div>
+
+
+
+<br><br><br>
+  </main>
+  <footer class="main-footer">
+    <ul class="list-inline">
+      <li><a href="https://twitter.com/GetYourBounty" class="icon icon-sm fa fa-twitter"><span class="popover-cont">Twitter</span></a></li>
+      <li><a href="https://www.facebook.com/GetBounty.net" class="icon icon-sm fa fa-facebook"><span class="popover-cont">Facebook</span></a></li>
+      <li><a href="https://medium.com/@GetBounty.net" class="icon icon-sm fa fa-medium"><span class="popover-cont">Medium</span></a></li>
+      <li><a href="https://bitcointalk.org/index.php?topic=1847091.0" class="icon icon-sm fa fa-btc"><span class="popover-cont">Bitcointalk thread</span></a></li>
+    </ul>
+    <p>Copyright &copy; 2017 GetBounty.net</p>
+  </footer>
+</div>
+<script src="js/minified.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
