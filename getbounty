@@ -103,7 +103,7 @@
       <h2 class="section-title">Dettagli su Bounty (XBTY)</h2>
       <div class="indent-content bg-white wow fadeInUp">
         <p>
-          <h4 class="text-gray text-uppercase">Cos’è Bounty (XBTY)?[</h4><br>
+          <h4 class="text-gray text-uppercase">Cos’è Bounty (XBTY)?</h4><br>
           Bounty (XBTY) è solo un token digitale, un token standard ERC20 sulla blockchain Ethereum ed è completamente compatibile con tutti i portafogli Ethereum 
           che supportano i token ERC20 o gli smart-contracts che utilizzano lo standard ERC20. Possono essere utilizzati come monete, certificati, titoli di credito, crediti di gioco, valuta per dei servizi, ecc..
           Non ha valore in sé, ma stiamo lavorando duramente per cambiare questo aspetto sviluppando vari servizi per XBTY
@@ -336,7 +336,7 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
               <div class="img-container">
                 <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
                 <div class="img-panel all-light">
-                  <h4>In arrivo presto/h4>
+                  <h4>In arrivo presto</h4>
                   <p class="small">Project description</p>
                   <hr class="divider">
                   <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
@@ -347,7 +347,7 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
               <div class="img-container">
                 <img src="img/portfolio-1.jpg" width="600" height="550" alt="">
                 <div class="img-panel all-light">
-                  <h4>Coming soon</h4>
+                  <h4>In arrivo presto</h4>
                   <p class="small">Project description</p>
                   <hr class="divider">
                   <a href="javascript:void(0);" class="icon icon-sm fa fa-link"></a>
@@ -480,14 +480,14 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
 
                     <div style="text-align:left;" class="timeline-content left">
                       <h3 class="text-primary">Partecipa alla campagna Twitter</h3><br>
-                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <h4 class="text-gray text-uppercase">Informazioni</h4>
                       <p>
-                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Available</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow @GetYourBounty</i><br>
-                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
-                        <i class="fa fa-money">&nbsp;&nbsp;0.1 XBTY / Follower / Week</i><br>
-                        e.g. If your twitter account has 3000 followers, your stake is 300 XBTY / week<br><br>
-                        <h4 class="text-gray text-uppercase">Rules</h4>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Disponibili</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Segui @GetYourBounty</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribuzione settimanale</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;0.1 XBTY / Follower / Settimana</i><br>
+                        es. Se il tuo account twitter ha 3000 followers, il tuo stake è 300 XBTY / settimana<br><br>
+                        <h4 class="text-gray text-uppercase">Regole</h4>
                         - Devi seguire e mantenere seguita la nostra pagina Twitter @GetYourBounty;<br>
                         - Devi essere attivo, retweet i nostri tweet o tweet circa @GetYourBounty.<br>
                         - Non c'è nessun minimo requisito per partecipare di tweet/retweet ma per favore non ignorarci.<br>
@@ -506,22 +506,22 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
       <div id="facebook-campaign">
 
                     <div style="text-align:left;" class="timeline-content left">
-                      <h3 class="text-primary">Join Facebook campaign</h3><br>
-                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <h3 class="text-primary">Partecipa alla campagna Facebook</h3><br>
+                      <h4 class="text-gray text-uppercase">Informazioni</h4>
                       <p>
-                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,080 XBTY Available</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow and Like our Facebook page @GetBounty.net</i><br>
-                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
-                        <i class="fa fa-money">&nbsp;&nbsp;50 XBTY / Week</i><br><br>
-                        <h4 class="text-gray text-uppercase">Rules</h4>
-                        - Follow and Like our Facebook page at @GetBounty.net;<br>
-                        - Keep following our page to continuously receive XBTY on weekly basis;<br>
-                        - Be active, like and share our Facebook posts;<br>
-                        - If your activity is too low (no shares and likes over long periods) you will be excluded from the campaign;<br>
-                        - You must have a minimum of 50 real friends;<br>
-                        - Don't use a Facebook profile dedicated for joining bounties;<br><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaKZT1oCA8gsQ2k1iAgSNl7p6nXC98ZCv4XQ5C1jVCrAw3Gw/viewform" class="btn btn-md btn-primary">Join Facebook campaign</a><br><br>
-                        <a href="https://docs.google.com/spreadsheets/d/1nt98tnSESTSThzfaZH245F3N5mprGsHfdPb69hYFRYE" class="btn btn-md btn-default">See participants list</a>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,080 XBTY Disponibili</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Segui e metti mi piace alla nostra pagina Facebook @GetBounty.net</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribuzione setimanale</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;50 XBTY / Settimana</i><br><br>
+                        <h4 class="text-gray text-uppercase">Regole</h4>
+                        - Segui e metti mi piace alla nostra pagina Facebook @GetBounty.net;<br>
+                        - Mantieni seguita la nostra pagina per ricevere continuamenteK XBTY ogni settimana;<br>
+                        - Essere attivo, mi piace condividi i nostri post Facebook;<br>
+                        - Se la tua attività è bassa (nessuna condivisione e nessun mi piace su lunghi periodi) sarai escluso dalla campagna;<br>
+                        - Devi avere un minimo di 50 amici reali;<br>
+                        - Non usare profili Facebook dedicati per partecipare ai bounty;<br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaKZT1oCA8gsQ2k1iAgSNl7p6nXC98ZCv4XQ5C1jVCrAw3Gw/viewform" class="btn btn-md btn-primary">Partecipa alla campagna Facebook</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/1nt98tnSESTSThzfaZH245F3N5mprGsHfdPb69hYFRYE" class="btn btn-md btn-default">Vedi la lista dei partecipanti</a>
                       </p>
                     </div>
         </p>
@@ -533,25 +533,25 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
       <div id="signature-campaign">
 
                     <div style="text-align:left;" class="timeline-content left">
-                      <h3 class="text-primary">Join Signature campaign</h3><br>
-                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <h3 class="text-primary">Partecipa alla campagna Firme</h3><br>
+                      <h4 class="text-gray text-uppercase">Informazioni</h4>
                       <p>
-                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;471,238 XBTY Available</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Follow @GetYourBounty</i><br>
-                        <i class="fa fa-calendar">&nbsp;&nbsp;Weekly distribution</i><br>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;471,238 XBTY Disponibili/i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Segui @GetYourBounty</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribuzione settimanale</i><br>
                         <i class="fa fa-money">&nbsp;&nbsp;<b>Stake</b></i><br>
-                        - Jr. Member: 30 XBTY / week;<br>
-                        - Member: 45 XBTY / week;<br>
-                        - Full Member: 90 XBTY / week;<br>
-                        - Sr. Member: 150 XBTY / week;<br>
-                        - Hero / Legendary: 200 XBTY / week;<br><br>
-                        <h4 class="text-gray text-uppercase">Rules</h4>
-                        - You must keep the signature to continuously receive bounty on weekly basis;<br>
-                        - You must be active and write posts on bitcointalk forum otherwise you can be excluded from the campaign;<br>
-                        - Off-topic and low quality posts will not be counted;<br><br>
-                        <a href="https://bitcointalk.org/index.php?topic=1847091.0" class="btn btn-md btn-primary">1 > Get signature codes</a><br><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkOXbNZSHbjDqZ-IHq4vTZecTIr2FILLofvBUFbptRqeYmiQ/viewform" class="btn btn-md btn-primary">2 > Join Signature campaign</a><br><br>
-                        <a href="https://docs.google.com/spreadsheets/d/14LkFwnXCR8RhhdH6gBNnQe_03_fcOQ2cj2OgLtWIamo" class="btn btn-md btn-default">See participants list</a>
+                        - Jr. Member: 30 XBTY / settimana;<br>
+                        - Member: 45 XBTY / settimana;<br>
+                        - Full Member: 90 XBTY / settimana;<br>
+                        - Sr. Member: 150 XBTY / settimana;<br>
+                        - Hero / Legendary: 200 XBTY / settimana;<br><br>
+                        <h4 class="text-gray text-uppercase">Regole</h4>
+                        - Devi mantenere la firma attiva continuamente per ottenere il bounty ogni settimana;<br>
+                        - Devi essere attivo e scrivere post sul forum bitcointalk sennò potrai essere escluso dalla campagna;<br>
+                        - Off-topic e post di bassa qualità non saranno contati;<br><br>
+                        <a href="https://bitcointalk.org/index.php?topic=1847091.0" class="btn btn-md btn-primary">1 > Ottieni codici per le firme</a><br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkOXbNZSHbjDqZ-IHq4vTZecTIr2FILLofvBUFbptRqeYmiQ/viewform" class="btn btn-md btn-primary">2 > Partecipa alla campagna Firme</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/14LkFwnXCR8RhhdH6gBNnQe_03_fcOQ2cj2OgLtWIamo" class="btn btn-md btn-default">Vedi la lista dei partecipanti</a>
                       </p>
                     </div>
         </p>
@@ -563,26 +563,26 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
       <div id="translation-bounty">
 
                     <div style="text-align:left;" class="timeline-content left">
-                      <h3 class="text-primary">Join Translation bounty</h3><br>
-                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <h3 class="text-primary">Partecipa ai bounty per le traduzioni</h3><br>
+                      <h4 class="text-gray text-uppercase">Informazioni</h4>
                       <p>
-                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,079 XBTY Available</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Translate available content</i><br>
-                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribution after delivery</i><br>
-                        <i class="fa fa-money">&nbsp;&nbsp;1 XBTY / word</i><br>
-                        e.g. if you translate 500 words you will receive 500 XBTY;<br><br>
-                        <h4 class="text-gray text-uppercase">What and how to?</h4>
-                        - Available language accepted: <b>Chinese, Russian, Indonesian, Spanish, German, Italian, Turkish, Romanian</b>;<br>
-                        - Check the list with the content available for translation;<br>
-                        - For other content than bitcointalk thread, create a <a href="https://justpaste.it">https://justpaste.it</a> and post it in the registration form;<br><br>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;157,079 XBTY Disponibili</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Traduci i contenuti disponibili</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;Distribuzione dopo consegna</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;1 XBTY / parola/i><br>
+                        es. se traduci 500 parole riceverai 500 XBTY;<br><br>
+                        <h4 class="text-gray text-uppercase">Cosa e come tradurre?</h4>
+                        - Linguaggi disponibili: <b>Cinese, Russo, Indonesiano, Spagnolo, Tedesco, Italiano, Turco, Rumeno</b>;<br>
+                        - Controlla la lista con i contenuti disponibili per la traduzione;<br>
+                        - Per altri contenti sul thread di bitcointalk, crea a<a href="https://justpaste.it">https://justpaste.it</a> e postalo nello spazio di registrazione;<br><br>
 
-                        <h4 class="text-gray text-uppercase">Rules</h4>
-                        - Don’t use google translate or other translation services;<br>
-                        - First come, first served, no reservations;<br>
-                        - You will receive extra bonus for keeping the content updated;<br><br>
-                        <a href="https://medium.com/@GetBounty.net/getbounty-join-translation-bounty-7db181e1514f" class="btn btn-md btn-primary">Check available content</a><br><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScgHt22UgWNSVFt7D_1KyybFUOBTx_JoF1S4pfcox2avOSDgw/viewform" class="btn btn-md btn-primary">Join Translation bounty</a><br><br>
-                        <a href="https://docs.google.com/spreadsheets/d/14CzH9r_gqEj7vRLyuI-ahBhdyGloJxlVXZmXby5D_4s" class="btn btn-md btn-default">See participants list</a>
+                        <h4 class="text-gray text-uppercase">Regole</h4>
+                        - Non usare google translate o altri servizi di traduzione;<br>
+                        - Prima arrivi, prima servito, nessune riservazioni;<br>
+                        - Ricevereai extra bonus per mantenere aggiornati i contenuti;<br><br>
+                        <a href="https://medium.com/@GetBounty.net/getbounty-join-translation-bounty-7db181e1514f" class="btn btn-md btn-primary">Controlla i contenuti disponibili</a><br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScgHt22UgWNSVFt7D_1KyybFUOBTx_JoF1S4pfcox2avOSDgw/viewform" class="btn btn-md btn-primary">Partecipa ai bounty per le traduzioni</a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/14CzH9r_gqEj7vRLyuI-ahBhdyGloJxlVXZmXby5D_4s" class="btn btn-md btn-default">Vedi la lista dei partecipanti</a>
                       </p>
                     </div>
         </p>
@@ -593,27 +593,27 @@ Puoi ospitare un Exit-Node  ed essere pagato con XBTY da chiunque utilizzi il tu
       <div id="blog-bounty">
 
                     <div style="text-align:left;" class="timeline-content left">
-                      <h3 class="text-primary">Join Blog/Media campaign</h3><br>
-                      <h4 class="text-gray text-uppercase">Information</h4>
+                      <h3 class="text-primary">Partecipa alla campagna Blog/Media</h3><br>
+                      <h4 class="text-gray text-uppercase">Informazioni</h4>
                       <p>
-                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Available</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Write blog post</i><br>
-                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Make video</i><br>
-                        <i class="fa fa-calendar">&nbsp;&nbsp;2 Weeks after publication</i><br>
-                        <i class="fa fa-money">&nbsp;&nbsp;2,000 to 20,000 XBTY per post/video</i><br>
-                        We decide the stake based on quality of the post/video and popularity.<br><br>
-                        <h4 class="text-gray text-uppercase">Rules for blog posts</h4>
-                        - Minimum 400 words;<br>
-                        - Must contain at least 1 link back to http://getbounty.net;<br>
-                        - Must contain unique content;<br>
-                        - Must be posted on English, Russian, Chinese, Indonesian or Spanish language blogs;<br><br>
-                        <h4 class="text-gray text-uppercase">Rules for Youtube/Other videos</h4>
-                        - Minimum 1 minute length video;<br>
-                        - Must explain all aspects of Bounty (XBTY) project;<br>
-                        - Must specify our website http://getbounty.net;<br>
-                        - Only English, Russian, Chinese or Spanish language accepted;<br><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVCHkaA_tOPjLVGp-Q9TtgJAsbSw1sHUakVPKN9RuR5Zmo9Q/viewform" class="btn btn-md btn-primary">Join Blog/Media campaign</a><br><br>
-                        <a href="https://docs.google.com/spreadsheets/d/1Z6AJxvErI69V9Xop21jHAyrQwGvtfsHycwcauWiYNAM" class="btn btn-md btn-default">See participants list</a>
+                        <i class="fa fa-pie-chart x2">&nbsp;&nbsp;628,318 XBTY Disponibili</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Scrivi su blog</i><br>
+                        <i class="fa fa-check-square-o">&nbsp;&nbsp;Fai video</i><br>
+                        <i class="fa fa-calendar">&nbsp;&nbsp;2 Settimane dopo la pubblicazione</i><br>
+                        <i class="fa fa-money">&nbsp;&nbsp;2,000 a 20,000 XBTY per post/video</i><br>
+                        Abbiamo deciso di ricompensare in base alla qualità del post/video e alla popolarità.<br><br>
+                        <h4 class="text-gray text-uppercase">Regole per i post su blog</h4>
+                        - Minimo 400 parole;<br>
+                        - Deve contenere minimo un link per http://getbounty.net;<br>
+                        - Deve essere un contenuto unico;<br>
+                        - Può essere postato in inglese, Russo, Cinese, Indonesiano o Spagnolo;<br><br>
+                        <h4 class="text-gray text-uppercase">Regole per i video Youtube/altro</h4>
+                        - Video lungo minimo 1 minuto;<br>
+                        - Devi spiegare tutti gli aspetti del progetto di Bounty (XBTY);<br>
+                        - Devi specificare il nostro sito http://getbounty.net;<br>
+                        - Solo in Inglese, Russo, Cinese o spagnolo;<br><br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVCHkaA_tOPjLVGp-Q9TtgJAsbSw1sHUakVPKN9RuR5Zmo9Q/viewform" class="btn btn-md btn-primary">Partecipa alla campagna Blog/Media </a><br><br>
+                        <a href="https://docs.google.com/spreadsheets/d/1Z6AJxvErI69V9Xop21jHAyrQwGvtfsHycwcauWiYNAM" class="btn btn-md btn-default">Vedi la lista dei partecipanti</a>
                       </p>
                     </div>
         </p>
